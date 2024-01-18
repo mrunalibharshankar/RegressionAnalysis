@@ -28,7 +28,7 @@ For Regression Analysis to approximate how two variables in a dataset are relate
 - A dependent variable, which is target variable. This variable cannot be directly controlled, and can depend on independent variable.
 
 The general form of a regression equation is:
-- **Y= β0 + β1*X1 +β2X2+…+βnXn + ϵ**
+ **Y= β0 + β1*X1 +β2X2+…+βnXn + ϵ**
 
 - Y is the dependent variable.
 - X1,X2,..Xn are independent variables.
