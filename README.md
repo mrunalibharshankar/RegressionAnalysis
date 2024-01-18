@@ -20,3 +20,31 @@ This dataset is for ABC Multistate bank with following columns:
        variable.
 
 The original files were exported from the [Kaggle](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset), and are available in this repository as an [Excel](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/main/Churn_Modelling1.xls) document.
+
+Regression analysis is a statistical technique used to examine the relationship between one dependent variable and one or more independent variables. The goal is to understand how the independent variables impact the dependent variable.
+
+For Regression Analysis to approximate how two variables in a dataset are related. In the following dataset for regression, we’ll have:
+- An independent variable, which is explanatory variable. This variable can be directly controlled.
+- A dependent variable, which is target variable. This variable cannot be directly controlled, and can depend on independent variable.
+
+The general form of a regression equation is:
+- Y= β0 + β1*X1 +β2X2+…+βnXn+ϵ
+
+The general line graph, we know that our independent variable runs along the x-axis, and our dependent variable runs along the y-axis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
