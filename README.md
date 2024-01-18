@@ -73,7 +73,8 @@ Key concepts associated with regression analysis include:
   - Initial years(0, 1) customers ChurnRate is the highest.
   - Female customers ChurnRate compared to Male is highest.
   - Geographically, Germany's ChurnRate is highest against Spain and France.
-- With this information we can come up with the best subscription plans for these users.  
+
+With this information we can come up with the best subscription plans for these users.  
  
     
 
