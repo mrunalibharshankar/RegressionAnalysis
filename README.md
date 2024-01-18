@@ -55,8 +55,11 @@ Key concepts associated with regression analysis include:
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/94fa03a3d1f4c10b5b602dc80acde987232b5910/total_counter.png)
 
 # Pivot Analysis
-- Created new field list ChurnRate by dividing [Exited]/[total_counter] total find out [Sum_of_Churnrate]
-- First analysis was to draw conclusion of NoOfProducts against ChurnRate
+- Created new field list ChurnRate by dividing [Exited]/[total_counter] to find out [Sum_of_Churnrate]
+- First analysis was to draw conclusion of [NoOfProducts] against [ChurnRate] and [CreditScore]
+  
+![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/6d9b6a9250941794aa4b910593eb6d9804a586f7/Pivot1.png)
+  
 
   
 
