@@ -3,18 +3,18 @@
 # Overview
 This dataset is for ABC Multistate bank with following columns:
 
-_customer_id_, unused variable.
-_credit_score_, used as input.
-_country_, used as input.
-_gender_, used as input.
-_age_, used as input.
-_tenure_, used as input.
-_balance_, used as input.
-_products_number_, used as input.
-_credit_card_, used as input.
-_active_member_, used as input.
-_estimated_salary_, used as input.
-_exited_, used as the target. 1 if the client has left the bank and 0 if he/she has not.
+- _customer_id_, unused variable.
+- _credit_score_, used as input.
+- _country_, used as input.
+- _gender_, used as input.
+- _age_, used as input.
+- _tenure_, used as input.
+- _balance_, used as input.
+- _products_number_, used as input.
+- _credit_card_, used as input.
+- _active_member_, used as input.
+- _estimated_salary_, used as input.
+- _exited_, used as the target. 1 if the client has left the bank and 0 if he/she has not.
 
 
  - [Overview](https://github.com/jhu-business-analytics/simple-linear-regression-excel-example/blob/master/README.md#overview)
