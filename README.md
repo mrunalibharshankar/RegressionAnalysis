@@ -83,15 +83,44 @@ With this information we can come up with the best subscription plans for these 
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegressionS1.png)
 
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegressionS2.png)
+
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegM1.png)
+![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/fd64072f167827c116dd25cb6589694c1304abc2/RegOutput.png)
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegFinalM.png)
 
-![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/fd64072f167827c116dd25cb6589694c1304abc2/RegOutput.png)
+
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/fd64072f167827c116dd25cb6589694c1304abc2/BestfitlineGraph.png)
+
+
+
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/fd64072f167827c116dd25cb6589694c1304abc2/Calculation.png)
 
-  
- 
+# Conclusion:  
+1. Statistical Significance:
+
+Researchers assess the statistical significance of the coefficients. A coefficient is considered statistically significant if its p-value is below a predetermined significance level (e.g., 0.05). This helps determine if there is a significant relationship between the independent and dependent variables.
+Coefficient Interpretation:
+
+The sign and magnitude of the coefficients are interpreted. A positive sign indicates a positive relationship, while a negative sign indicates a negative relationship. The magnitude indicates the strength of the relationship.
+Predictive Power:
+
+The overall predictive power of the model is assessed using metrics like R-squared. A higher R-squared value suggests that the independent variables explain a larger proportion of the variance in the dependent variable.
+Variable Importance:
+
+Researchers may identify which independent variables are most important in explaining the variability in the dependent variable. This is based on the magnitude of the coefficients and their statistical significance.
+Model Fit:
+
+The overall fit of the model to the data is evaluated. Residual analysis helps assess how well the model's predictions align with the observed data.
+Assumptions Check:
+
+Researchers check whether the assumptions of regression analysis are met, including linearity, independence of errors, homoscedasticity, and normality of residuals. Violations of these assumptions can impact the validity of the conclusions.
+Outlier Detection:
+
+Outliers are identified and their impact on the results is assessed. Outliers can influence the estimated coefficients and may need special attention.
+Generalization:
+
+Conclusions drawn from the analysis are considered in the broader context. Researchers may discuss the generalizability of the findings to a larger population or different settings.
+It's important to note that regression analysis provides insights into associations and relationships, but it does not imply causation. Conclusions should be drawn cautiously, considering the study design, limitations, and the appropriateness of the model for the given data.
     
 
 
