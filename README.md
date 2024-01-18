@@ -37,7 +37,7 @@ The general form of a regression equation is:
 - ϵ is the error term.
 
 The general line graph, that independent variable runs along the x-axis, and dependent variable runs along the y-axis
-![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/main/README.md#:~:text=line_example-,.,-png)
+![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/24c43203a0b58bc66dd831b17bf089f5d2a44fe4/line_example.png)
 
 
 The regression analysis aims to estimate the coefficients (β) that minimize the difference between the observed and predicted values of the dependent variable.
