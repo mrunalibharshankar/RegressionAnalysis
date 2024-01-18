@@ -30,14 +30,21 @@ For Regression Analysis to approximate how two variables in a dataset are relate
 The general form of a regression equation is:
 - Y= β0 + β1*X1 +β2X2+…+βnXn + ϵ
 
-Y is the dependent variable.
-X1,X2,..Xn are independent variables.
-β0 is the y-intercept.
-β1, β2,..βn are coefficients representing the relationship between the independent and dependent variables.
-ϵ is the error term.
+- Y is the dependent variable.
+- X1,X2,..Xn are independent variables.
+- β0 is the y-intercept.
+- β1, β2,..βn are coefficients representing the relationship between the independent and dependent variables.
+- ϵ is the error term.
 
 The general line graph, that independent variable runs along the x-axis, and dependent variable runs along the y-axis
 
+The regression analysis aims to estimate the coefficients (β) that minimize the difference between the observed and predicted values of the dependent variable.
+
+Key concepts associated with regression analysis include:
+
+- _R-squared (R²)_: Indicates the proportion of the variance in the dependent variable that is predictable from the independent variables.
+- _Coefficients_: Represent the strength and direction of the relationship between the independent and dependent variables.
+- _Residuals_: The differences between the observed and predicted values.
 
 
 
