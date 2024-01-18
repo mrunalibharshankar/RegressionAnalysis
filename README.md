@@ -59,19 +59,23 @@ Key concepts associated with regression analysis include:
 - First analysis was to draw conclusion of [NoOfProducts] against [ChurnRate] and [CreditScore]
   
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/6d9b6a9250941794aa4b910593eb6d9804a586f7/Pivot1.png)
-- Conclusion drawn is, the highest no of products holder are tend to exit.
 
-
-
+- Likewise we have created pivot table for [Tenure], [Gender] and [Georgraphy] with [ChurnRate] and [CreditScore]
 
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/4e3b8f96549da6884b37e2921602a80bc79d9732/Pivot2.png)
-
 
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/4e3b8f96549da6884b37e2921602a80bc79d9732/Pivot3.png)
 
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/4e3b8f96549da6884b37e2921602a80bc79d9732/Pivot4.png)
 
-
+- Conclusion drawn is,
+  - the highest no of products holder are tend to exit.
+  - Initial years(0, 1) customers ChurnRate is the highest.
+  - Female customers ChurnRate compared to Male is highest.
+  - Geographically, Germany's ChurnRate is highest against Spain and France.
+  with this information we can come up with the best subscription plans for these users.  
+ 
+    
 
 
   
