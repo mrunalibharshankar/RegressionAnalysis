@@ -28,9 +28,15 @@ For Regression Analysis to approximate how two variables in a dataset are relate
 - A dependent variable, which is target variable. This variable cannot be directly controlled, and can depend on independent variable.
 
 The general form of a regression equation is:
-- Y= β0 + β1*X1 +β2X2+…+βnXn+ϵ
+- Y= β0 + β1*X1 +β2X2+…+βnXn + ϵ
 
-The general line graph, we know that our independent variable runs along the x-axis, and our dependent variable runs along the y-axis
+Y is the dependent variable.
+X1,X2,..Xn are independent variables.
+β0 is the y-intercept.
+β1, β2,..βn are coefficients representing the relationship between the independent and dependent variables.
+ϵ is the error term.
+
+The general line graph, that independent variable runs along the x-axis, and dependent variable runs along the y-axis
 
 
 
