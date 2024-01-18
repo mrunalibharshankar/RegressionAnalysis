@@ -75,6 +75,22 @@ Key concepts associated with regression analysis include:
   - Geographically, Germany's ChurnRate is highest against Spain and France.
 
 With this information we can come up with the best subscription plans for these users.  
+
+
+# Regression Analysis
+- The target variable(dependent variable) is [Exited] to analysis the best independent variable explains about this variable we performed statistic regression using Data analysis in built tool in Excel.
+
+![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegressionS1.png)
+
+![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegressionS2.png)
+![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegM1.png)
+![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/8eacec2c83b182301b9bfa681adfbde0396cc589/RegFinalM.png)
+![Alt Text]
+![Alt Text]
+![Alt Text]
+![Alt Text]
+
+  
  
     
 
