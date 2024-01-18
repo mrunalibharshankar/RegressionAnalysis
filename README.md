@@ -50,7 +50,8 @@ Key concepts associated with regression analysis include:
 
 
 # Transforming Variable
-- [total_counter] We have used countif() function of excel to count the duplicate records if any.
+- [total_counter] We have used countif() function of excel to count the duplicate records against the CustomerId column which represents the unique records.
+  
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/94fa03a3d1f4c10b5b602dc80acde987232b5910/total_counter.png)
   
 
