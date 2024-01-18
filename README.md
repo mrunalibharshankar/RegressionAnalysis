@@ -102,7 +102,8 @@ With this information we can come up with the best subscription plans for these 
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/fd64072f167827c116dd25cb6589694c1304abc2/BestfitlineGraph.png)
 
     
-
+# Further Analysis
+ The target variable was in binary form(0,1) so the better analysis can be done in Logistic Regression with different evaluation metrics.
 
   
 
