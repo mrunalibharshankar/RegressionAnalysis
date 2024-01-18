@@ -88,13 +88,6 @@ With this information we can come up with the best subscription plans for these 
 ![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/fd64072f167827c116dd25cb6589694c1304abc2/RegOutput.png)
 
 
-
-
-
-
-
-![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/fd64072f167827c116dd25cb6589694c1304abc2/Calculation.png)
-
 # Conclusion:  
 1. Statistical Significance: A coefficient is considered statistically significant if its p-value is below a predetermined significance level (e.g., 0.05).
    In this case, **p-value of CreditScore is 0.007** (< 0.05), it determined the significant relationship between CredtiScore(independent variable) and Exited (dependent variable).
