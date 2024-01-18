@@ -49,6 +49,12 @@ Key concepts associated with regression analysis include:
 - _Residuals_: The differences between the observed and predicted values.
 
 
+# Transforming Variable
+- [total_counter] We have used countif() function of excel to count the duplicate records if any.
+![Alt Text](https://github.com/mrunalibharshankar/RegressionAnalysis/blob/94fa03a3d1f4c10b5b602dc80acde987232b5910/total_counter.png)
+  
+
+
 
 
 
